@@ -1,8 +1,8 @@
 PaulXStretch license – included for reference and attribution only.
 
-Kornsexuell does NOT contain or link any PaulXStretch code. Its time-stretch is an
+Korn does NOT contain or link any PaulXStretch code. Its time-stretch is an
 independent implementation of the Paulstretch technique, licensed under MIT (see ../LICENSE).
-This file does not apply to Kornsexuell's own code.
+This file does not apply to Korn's own code.
 
 Source: https://github.com/essej/paulxstretch (LICENSE, copied verbatim below)
 

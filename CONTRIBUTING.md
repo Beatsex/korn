@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for wanting to help with Kornsexuell.
+Thanks for wanting to help with Korn.
 
 ## How it is built
 Everything lives in one self-contained `index.html`: no build step, no dependencies.

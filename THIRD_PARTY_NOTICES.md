@@ -1,6 +1,6 @@
 # Third-party notices
 
-Kornsexuell contains no third-party code. Everything in `index.html` (granular engine,
+Korn contains no third-party code. Everything in `index.html` (granular engine,
 spectral STFT engine, Paulstretch, UI) is original work under the MIT License in `LICENSE`.
 
 ## Fonts (loaded at runtime from Google Fonts, not redistributed here)
@@ -12,7 +12,7 @@ On Apple devices the system font (SF Pro) is used first; it is not bundled.
 ## Algorithm credit
 The extreme time-stretch is an independent implementation of the random-phase
 STFT technique by Nasca Octavian Paul (Paulstretch). No code from Paulstretch or
-PaulXStretch is included, so their licenses do not apply to Kornsexuell's code.
+PaulXStretch is included, so their licenses do not apply to Korn's code.
 
 - **Paulstretch** – Nasca Octavian Paul – https://github.com/paulnasca/paulstretch_python
 - **PaulXStretch** – Xenakios, Jesse Chappell (sonosaurus) – https://github.com/essej/paulxstretch
