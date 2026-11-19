@@ -11,5 +11,10 @@ On Apple devices the system font (SF Pro) is used first; it is not bundled.
 
 ## Algorithm credit
 The extreme time-stretch is an independent implementation of the random-phase
-STFT technique described by Paul Nasca (Paulstretch). No code from Paulstretch or
-PaulXStretch (GPLv3) is included.
+STFT technique by Nasca Octavian Paul (Paulstretch). No code from Paulstretch or
+PaulXStretch is included, so their licenses do not apply to Kornsexuell's code.
+
+- **Paulstretch** – Nasca Octavian Paul – https://github.com/paulnasca/paulstretch_python
+- **PaulXStretch** – Xenakios, Jesse Chappell (sonosaurus) – https://github.com/essej/paulxstretch
+  – GNU GPL v3 with a section 7 app-store exception. Full text for reference:
+  [licenses/PaulXStretch-GPL-3.0.txt](licenses/PaulXStretch-GPL-3.0.txt)
