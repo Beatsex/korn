@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+node_modules/
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.zip
