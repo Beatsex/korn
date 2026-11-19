@@ -70,7 +70,7 @@ any modern browser, on phone and desktop. No install, no account, nothing leaves
 - Multitouch keyboard, XY pad, macros, tilt control
 - 2 LFOs, 16-step sequencer, arpeggiator, scales and chords
 - DJ filter, reverb, ping-pong delay, compressor
-- 20+ patches, morph between patches, share patches as code
+- 30 patches, morph between patches, share patches as code
 
 </td>
 </tr>
